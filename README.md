@@ -9,3 +9,8 @@ Seguridad HostPayment Page con Payworks2 y 3D security
 ......
 Este es un DEMO ejemplo de cómo el conector funciona en una tienda Woocommerce instalada en Wordpress desde versiones 2.x hasta las ultimas versiones, NO existe ningun conflicto ni desactualizacion cuando WP se actualiza.
 Este conector y otras versiones de BANCOS MEXICANOS (TODOS) los puedes encontrar disponibles en nuestro Portal Mojomexico.
+
+
+INSTALACION:
+
+Descarga el ZIP y agregalo como un PLUGIN Nuevo en WordPress. Podras notar que se agrega a la lista tradicional de Pasarelas de Pago Woocomerce en la zona de WC-Ajustes-Pagos-Banorte
